@@ -1,0 +1,4 @@
+This Swift implementation is based on the design of the ai-python framework
+in the adjacent ai-python directory, Copyright 2026 Vercel, Inc., licensed
+under the Apache License, Version 2.0. It implements a new, non-durable subset
+in Swift and is not an official Vercel SDK.

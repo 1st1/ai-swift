@@ -1,0 +1,7 @@
+.build/
+.build-*/
+.swiftpm/
+.env
+.lat-build
+.pi
+.codex
